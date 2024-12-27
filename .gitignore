@@ -1,5 +1,6 @@
-# input
-input.txt
+# I/O
+input*.txt
+output*.txt
 
 # temp
 temp/
