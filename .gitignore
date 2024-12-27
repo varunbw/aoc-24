@@ -1,0 +1,12 @@
+# input
+input.txt
+
+# temp
+temp/
+
+# executables
+*.out
+*.exe
+
+# vscode
+.vscode/
