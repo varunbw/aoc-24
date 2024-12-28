@@ -8,6 +8,7 @@ temp/
 # executables
 *.out
 *.exe
+a
 
 # vscode
 .vscode/
