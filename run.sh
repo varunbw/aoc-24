@@ -10,7 +10,7 @@ SOURCE_FILE="$1.cpp"
 OUTPUT_FILE="a"  # Remove the extension from the source file name
 
 # Base compile command
-COMPILE_CMD="g++ -g $SOURCE_FILE -o $OUTPUT_FILE -O2 -std=c++17 -fsanitize=address"
+COMPILE_CMD="g++ -g $SOURCE_FILE -o $OUTPUT_FILE -std=c++17 -fsanitize=address"
 
 # Compile the source file
 echo "Compiling with command: $COMPILE_CMD"
